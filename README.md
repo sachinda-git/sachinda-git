@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a results-driven **Java Backend Developer** with over **5 years of experience** in backend development, microservices architecture, and containerized solutions. From optimizing system performance to mentoring teams, my passion lies in building scalable and efficient software that solves real-world problems.
+I’m a results-driven **Full Stack Developer** with over **5 years of experience** in backend development, microservices architecture, and containerized solutions. From optimizing system performance to mentoring teams, my passion lies in building scalable and efficient software that solves real-world problems.
 
 ---
 
